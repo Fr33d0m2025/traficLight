@@ -1,0 +1,6 @@
+.light{
+    width: 200px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    cursor: pointer;
+}
